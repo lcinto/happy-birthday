@@ -1,15 +1,15 @@
 {
-  "greeting": "乐成",
+  "greeting": "to",
   "name": "六角",
   "greetingText": "你好",
   "wishText": "祝你生日快乐 ;)",
-  "imagePath": "yxy.jpg",
+  "imagePath": "img/cat.jpg",
   "text1": "今天是你生日!!! :D",
   "textInChatBox": "Happy birthday to you!! ",
   "sendButtonLabel": "Send",
   "text2": "这一直都是我想做的事",
   "text3": "但是我都没坚持下来",
-  "text4": "既然如此，我觉得现在得做些什么",
+  "text4": "既然如此，我觉得现在我得做些什么",
   "text4Adjective": "最后的",
   "text5Entry": "因为",
   "text5Content": "我答应过",
@@ -17,7 +17,7 @@
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "Happy Birthday!",
-  "outroText": "",
-  "replayText": "",
+  "outroText": "没有了",
+  "replayText": "你想重看一遍的话可以点击重来",
   "outroSmiley": ":)"
 }
