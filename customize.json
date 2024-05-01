@@ -2,7 +2,7 @@
   "greeting": "to",
   "name": "羽飤",
   "greetingText": "你好",
-  "wishText": "祝你生日快樂",
+  "wishText": "祝你生日快樂！",
   "imagePath": "img/yusi.jpg",
   "text1": "今天是你生日!!! :D",
   "textInChatBox": "Happy birthday to you!! ",
@@ -11,13 +11,13 @@
   "text3": "祝你成为画画大佬",
   "text4": "祝你成为S+大佬",
   "text4Adjective": "anyway",
-  "text5Entry": "你",
+  "text5Entry": "你🫵",
   "text5Content": "永远是坠屌的!!!",
-  "smiley": ":D",
+  "smiley": ":P",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
+  "wishHeading": "Painting For Happiness!",
   "outroText": "天天开心哦！",
   "replayText": "你想重看一遍的话可以点击重来",
-  "outroSmiley": ":)"
+  "outroSmiley": ":D"
 }
